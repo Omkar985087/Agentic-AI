@@ -8,6 +8,7 @@ dependencies = []
 
 [dependency-groups]
 dev = [
+    "ipykernel>=7.2.0",
     "langchain",
     "langchain-community>=0.4.2",
     "langchain-google-genai>=4.2.3",
