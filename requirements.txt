@@ -8,3 +8,5 @@ ipykernel
 langgraph
 langsmith
 langchain-tavily
+pypdf
+pymupdf
