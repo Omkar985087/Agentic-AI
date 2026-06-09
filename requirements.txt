@@ -10,3 +10,6 @@ langsmith
 langchain-tavily
 pypdf
 pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
