@@ -21,6 +21,7 @@ dependencies = [
     "pypdf>=6.13.0",
     "python-dotenv>=1.2.2",
     "sentence-transformers>=5.5.1",
+    "tavily-python>=0.7.26",
 ]
 
 [dependency-groups]
