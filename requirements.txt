@@ -17,3 +17,4 @@ deepagents
 tavily-python
 langsmith
 groq
+langchain_huggingface
