@@ -16,3 +16,4 @@ chromadb
 deepagents
 tavily-python
 langsmith
+groq
